@@ -11,7 +11,7 @@
 * **RESEARCH AND THOROUGHLY** Answer these questions. This shouldn't take just a trivial amount of time. You should spend some signifigant time on this.
 
 1. Describe the differences between a Docker container and a virtual machine. What makes a container more aptly-suited for portability?
-2. Given the commend `docker run -p 49160:8080 -d <your_docker_username>/<your_docker_image_name>`, what does `49160:8080` specify?
+2. Using the command `docker run -p 49160:8080 -d <your_docker_username>/<your_docker_image_name>`, what does `49160:8080` specify?
 3. What is the main purpose of using a "container orchestration platform" such as Kubernetes or Docker Swarm?
 4. How do you change the number of replicas in a Kubernetes cluster?
 5. What does it mean to scale a deployed application 'horizontally'? What does it mean to scale 'vertically'?
